@@ -1,0 +1,19 @@
+{
+    "API_URL": "https://api.a9a2bc4.com/v2.5/bootstrap",
+    "APP_VERSION": "2.5.9.1",
+    "PLATFORM": "2",
+    "TOKEN": "",
+    "USER_KEY": "",
+    "UUID": "",
+    "avatar": "",
+    "integral": 0,
+    "login_ip": "",
+    "nickname": "",
+    "updated_at": "",
+    "buy_url": "",
+    "api_list": [],
+    "wxpusher_appToken": "",
+    "wxpusher_uids": [
+        ""
+    ]
+}

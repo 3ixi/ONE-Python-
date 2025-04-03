@@ -29,7 +29,7 @@ pip install pycryptodome httpx
 6. 移除更新token时获取不必要的配置项数据。
 7. 移除pyyaml库支持，改为使用json库(Python自带的标准库)读写配置信息。
 
-![undefined](https://y.gtimg.cn/music/photo_new/T053M000000IRiEl0wCJ0O.png)
+![undefined](https://y.gtimg.cn/music/photo_new/T053M000000LUSFk20NvEH.png)
 
 ## 使用说明
 
